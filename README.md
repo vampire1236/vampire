@@ -1,2 +1,0 @@
-# vampire
-plyaing $help 
