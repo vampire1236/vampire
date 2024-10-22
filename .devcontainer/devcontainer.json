@@ -1,7 +1,7 @@
 {
     "name": "vampire Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
-    "postStartCommand": "echo '*'; echo '*         @Spike_Magic Bot Running      *'; echo '*'; python /workspaces/vampire/old_main.py",
+    "postStartCommand": "echo '*'; echo '*         @GOKU_VAMPIRE Bot Running      *'; echo '*'; python /workspaces/vampire/old_main.py",
     "postCreateCommand": "pip install pymongo python-telegram-bot pyTelegramBotAPI certifi && chmod +x /workspaces/vampire/*",
     "customizations": {
         "vscode": {
